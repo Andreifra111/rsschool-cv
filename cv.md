@@ -25,4 +25,4 @@
       * Udemy
       * Selfeducation 
 7 7. English:
-       My level of English is currently A1. I'm trying to upgrade to B1.    
+    My level of English is currently A1. I'm trying to upgrade to B1.    
