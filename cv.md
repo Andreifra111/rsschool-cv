@@ -12,7 +12,7 @@
       * Git
       * React
  5. Code example:
-     ```javascript
+      ```javascript
         function truncate(str, maxlength) {
           let newStr;
           if (str.length > maxlength) {
@@ -21,7 +21,7 @@
          }
          return str;
         };
-     ```  
+      ```  
  6. Education:
       * GGTU 
       * Udemy
