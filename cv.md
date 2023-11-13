@@ -11,8 +11,9 @@
       * HTML, Css
       * Git
       * React
+      * Markdown
  5. Code example:
-      ```javascript
+       ```javascript
         function truncate(str, maxlength) {
           let newStr;
           if (str.length > maxlength) {
@@ -21,10 +22,11 @@
          }
          return str;
         };
-      ```  
+       ```  
  6. Education:
       * GGTU 
       * Udemy
       * Selfeducation 
  7. English:
-    My level of English is currently A1. I'm trying to upgrade to B1.    
+    My level of English is currently A1. I'm trying to upgrade to B1.
+        
